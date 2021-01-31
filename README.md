@@ -1,5 +1,8 @@
-# JavaScript Mini Web Projects
-Mini Web Projects built with HTML5, CSS3, Sass, and JavaScript. No Frameworks or Libraries.
+# Vanilla JavaScript Mini Web Projects
+
+**NOTE ON PULL REQUESTS:**
+While I do appreciate people trying to make some things prettier or adding new features, we are only accepting pull requests and looking at issues for bug fixes so that the code stays inline with the project. Thank You.
+
 
 | No.   | Mini Projects           | Project Links                                                       |
 | :--:  |-------------------------|---------------------------------------------------------------------|
