@@ -15,5 +15,5 @@ While I do appreciate people trying to make some things prettier or adding new f
 | 07.  | Reviews Card            | [Live Demo](https://miniwebproject.vercel.app/reviews-card/)        |
 | 08.  | Tabs Menu               | [Live Demo](https://miniwebproject.vercel.app/tabs-menu/)           |
 | 09.  | Video Header            | [Live Demo](https://miniwebproject.vercel.app/video-header/)        |
-| 10.  | Custom Select Box       | [Live Demo](https://miniwebproject.vercel.app/custom-select/)       |
-| 11.  | Lorem Ipsum Text        | [Live Demo](https://miniwebproject.vercel.app/lorem-ipsum/)         |
+| 10.  | Custom Select           | [Live Demo](https://miniwebproject.vercel.app/custom-select/)       |
+| 11.  | Lorem Ipsum             | [Live Demo](https://miniwebproject.vercel.app/lorem-ipsum/)         |
