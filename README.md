@@ -4,7 +4,7 @@
 While I do appreciate people trying to make some things prettier or adding new features, we are only accepting pull requests and looking at issues for bug fixes so that the code stays inline with the project. Thank You.
 
 
-| No.  | Mini Projects           | Project Links                                                       |
+| No.  | Mini Project            | Project Live Demo                                                   |
 | :--: |-------------------------|---------------------------------------------------------------------|
 | 01.  | Accordion Menu        	 | [Live Demo](https://miniwebproject.vercel.app/accordion-menu/)      |
 | 02.  | Countdown Timer         | [Live Demo](https://miniwebproject.vercel.app/countdown-timer/)     |
